@@ -1,4 +1,5 @@
-## Hi there 👋
+
+Do you know how to cook rice o_O ?
 
 <!--
 **bi-bibot/bi-bibot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
